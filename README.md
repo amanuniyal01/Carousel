@@ -1,4 +1,5 @@
 # 🚀 My Vite + React + Tailwind App
+ I had made this as a Question of Frontend Interview
 
 This is a simple React app built with **Vite** and styled using **Tailwind CSS**.  
 It includes a responsive **image carousel/slider** component.
